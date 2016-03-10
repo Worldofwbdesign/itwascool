@@ -16,10 +16,10 @@ $(function() {
    	cover: true,
    	preload: true,
     slides: [
-        { src: "/img/slider/bg_top.jpg" },
-        { src: "/img/slider/bg_top1.jpg" },
-        { src: "/img/slider/bg_top2.jpg" },
-        { src: "/img/slider/bg_top3.jpg" }
+        { src: "img/slider/bg_top.jpg" },
+        { src: "img/slider/bg_top1.jpg" },
+        { src: "img/slider/bg_top2.jpg" },
+        { src: "img/slider/bg_top3.jpg" }
     ]
 });
 
