@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "FjallaOneRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/FjallaOneRegular/FjallaOneRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "UbuntuBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/UbuntuBold/UbuntuBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "UbuntuLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/UbuntuLight/UbuntuLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); }
