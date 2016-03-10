@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/404.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/callback.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/category.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/main.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/functions.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/header-main.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/home-header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/home.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/common.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/loadmore.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/post-like.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/page.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/searchform.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/single.php" charset="UTF-8" />
+  </component>
+</project>
